@@ -1,12 +1,13 @@
 h1 {
-    color: white; font-family: "Times New Roman"; text-align: center;
+  font-family: "Times New Roman"; text-align: center;
 }
 h2 {
-    color: white; font-family: "Arial";
+    color: #ffcc00; font-family: "Palatino Linotype";
 }
-p{  color: white; font-size:"20pt";}
+ul{  color: white; font-size:"60";  font-family: "Comic Sans MS", cursive, sans-serif;}
 body  {
     background-image: url('fff.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+p{  color: white; font-size:"60pt";  font-family: "Comic Sans MS", cursive, sans-serif;}
